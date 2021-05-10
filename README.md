@@ -21,4 +21,4 @@
 7.page填写页数，例如100。可以参照截图中的填写方式，后面的版本填写时会进行提示。
 
 ## 截图
-![Image text](https://pan.forensix.cn/thumbnail/051a225f-2e62-45b4-b187-c478644ab108/1024/1.png)
+![Image text](https://pan.forensix.cn/f/6e52aae34a474c08b75c/?dl=1)
