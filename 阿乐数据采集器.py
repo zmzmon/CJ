@@ -119,12 +119,11 @@ def gui_start():
 
 gui_start()
 
-
 # __init__ 和 __int__不一样的，我日，这个错误半天没发现，我是傻逼
 # 打包命令pyinstaller -F -w 阿乐数据采集器.py
 # 打包命令pyinstaller -F -w -i 1.ico 阿乐数据采集器.py,可以加图标
 # https://blog.csdn.net/weixin_36165569/article/details/114430394 upx加壳打包
 # pyinstaller --upx-dir=D:\ProgramData\Anaconda3\Lib\site-packages\PyInstallerupx-3.96-win64 -F -w -i 1.ico 阿乐数据采集器.py
 # pyinstaller 打包过大 https://blog.csdn.net/p1967914901/article/details/109706449
-# D:\env>pyinstaller --upx-dir=D:\ProgramData\Anaconda3\Lib\site-packages\PyInstallerupx-3.96-win64 -F -w
-# D:\Py_Project\CJ\阿乐数据采集器.py  虚拟环境打包出来的运行不成功
+# pyinstaller --upx-dir=C:\Users\aa\.virtualenvs\Py_Project\Scripts\PyInstaller -F -w -i 1.ico D:\Py_Project\CJ\阿乐数据采集器.py
+# 新的python环境，需要request， pandas， lxml包, 打包出来30多mb
