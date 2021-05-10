@@ -21,4 +21,5 @@
 7.page填写页数，例如100。可以参照截图中的填写方式，后面的版本填写时会进行提示。
 
 ## 截图
+* 截图需要挂代理才能看到
 ![Image text](https://raw.githubusercontent.com/zmzmon/CJ/main/%E8%BD%AF%E4%BB%B6%E6%88%AA%E5%9B%BE/1.png)
