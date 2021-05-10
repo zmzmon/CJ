@@ -1,10 +1,10 @@
 # CJ
 阿乐数据采集器
 
-* 阿乐数据采集器V1.0 .exe
+* 阿乐数据采集器V1.0 .exe [**高速下载**](https://pan.forensix.cn/f/bd1d926cd54b4ec0a493/?dl=1)
 * 目前只支持get请求，数据类型需要是标准的表格形式。
 * 下个版本加入多线程，post请求，随机的useragent，支持json格式的爬取。
-[**高速下载**](https://pan.forensix.cn/f/bd1d926cd54b4ec0a493/?dl=1)
+
 
 ## 使用方法
 
