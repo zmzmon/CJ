@@ -22,4 +22,5 @@
 
 ## 截图
 * 截图需要挂代理才能看到
+
 ![Image text](https://raw.githubusercontent.com/zmzmon/CJ/main/%E8%BD%AF%E4%BB%B6%E6%88%AA%E5%9B%BE/1.png)
