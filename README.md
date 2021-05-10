@@ -5,6 +5,7 @@
 [**高速下载**](https://pan.forensix.cn/f/bd1d926cd54b4ec0a493/?dl=1)
 
 * 使用方法
+
 1.使用浏览器登陆后台页面，找到需要取的页面，如果是有框架的网站，右键框架仅显示此框架，或者F12找到真实的地址。进入F12审查，点击网络，从中查找cookie，useragent。
 
 2.url中填入地址，去掉变动的参数，我测试的是 http://192.168.0.1/adm.php?m=carmodel&a=list&page=1 ， 则填入url为 http://192.168.0.1/adm.php?m=carmodel&a=list
