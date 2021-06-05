@@ -28,7 +28,7 @@ class GUI:
 
     def setting(self):
         # 设置标题
-        self.my_window.title('阿乐数据采集器v1.1.3    BY: Alenm    773593595@qq.com')
+        self.my_window.title('阿乐数据采集器v1.1.4    BY: Alenm    773593595@qq.com')
         # 设置窗口大小
         width = 1200
         height = 700
