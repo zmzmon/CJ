@@ -4,7 +4,7 @@
 
 *阿乐数据采集器V1.2 .exe*
 
-[**高速下载（打包中）**](https://pan.forensix.cn/f/fce87a35b60a46e0af98/?dl=1)
+[**高速下载**](https://pan.forensix.cn/f/fce87a35b60a46e0af98/?dl=1)
 
 * 新增多线程爬取功能。
 * 新增url构造的方式，不使用&连接的url。
